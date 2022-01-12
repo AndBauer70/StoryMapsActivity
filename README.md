@@ -1,1 +1,1 @@
-# StoryMapsTechDemo
+# StoryMapsActivity
